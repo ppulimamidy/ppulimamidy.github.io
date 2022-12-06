@@ -35,3 +35,24 @@ To apply platform thinking, businesses can follow these steps:
 By following these steps, businesses can effectively apply platform thinking and create platforms that generate value for both themselves and their users.
 
 
+There are several different types of platforms, including:
+
+1. Technology platforms: These are platforms that enable the creation and distribution of technology products and services, such as operating systems, app stores, and cloud computing platforms.
+
+2. marketplaces: These are platforms that connect buyers and sellers, such as e-commerce platforms and ride-sharing platforms.
+
+3. social media: These are platforms that facilitate communication and connection between users, such as Facebook and Twitter.
+
+4. content platforms: These are platforms that host and distribute user-generated content, such as YouTube and Reddit.
+
+5. payment platforms: These are platforms that facilitate online payments, such as PayPal and Stripe.
+
+6. developer platforms: These are platforms that enable external developers to build applications and services on top of a core technology or product, such as the Apple App Store and the Google Play Store.
+
+Each type of platform serves a specific purpose and caters to different user needs and preferences. we will explore each of these platforms in coming weeks.
+
+
+
+
+
+
