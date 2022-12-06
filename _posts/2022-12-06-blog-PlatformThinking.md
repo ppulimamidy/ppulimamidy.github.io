@@ -35,19 +35,3 @@ To apply platform thinking, businesses can follow these steps:
 By following these steps, businesses can effectively apply platform thinking and create platforms that generate value for both themselves and their users.
 
 
-
-#### Identifying the core value proposition of the business
-
-Understand the needs and pain points of the target users.
-
-Identify the unique value that the business can offer to users.
-
-Understand how the business can create value for users through the products or services it offers.
-
-Develop a clear and compelling message that communicates the value proposition to users.
-
-Continuously test and validate the value proposition with users to ensure that it is meeting their needs and expectations.
-
-By following these steps, businesses can identify their core value proposition and create value for users through their products and services.
-
-
