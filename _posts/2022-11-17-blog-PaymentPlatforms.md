@@ -1,4 +1,4 @@
-##Payment Platforms
+## Payment Platforms
 
 Payment platforms are a critical part of the modern economy, facilitating online transactions and payments. A payment platform is a digital platform that enables users to securely and conveniently make and receive payments online. By creating a payment platform, businesses can create value for users, and in turn, generate value for themselves.
 
