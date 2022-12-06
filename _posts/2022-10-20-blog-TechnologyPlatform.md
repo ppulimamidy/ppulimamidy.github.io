@@ -1,4 +1,4 @@
-##Technology Platforms
+## Technology Platforms
 
 Technology platforms are a critical part of the modern economy, enabling the creation and distribution of technology products and services. A technology platform is a set of tools and services that enables developers to build applications and services on top of a core technology or product. By creating a technology platform, businesses can tap into a vast network of developers and leverage their skills and creativity to drive innovation and growth.
 
