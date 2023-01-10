@@ -1,4 +1,4 @@
-# Where and How to start learning AI
+# How to start Learning AI
 
 If you’re looking to become an AI expert, you’re in luck. There has never been a better time to break into the field, as AI technology is becoming increasingly prevalent in all aspects of our lives. AI experts are in high demand and the field is expected to continue to grow in the coming years.
 
