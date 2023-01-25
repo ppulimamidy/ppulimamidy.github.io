@@ -1,4 +1,4 @@
-#Unlocking the Potential of Web3: The Future of Decentralized Internet
+## Unlocking the Potential of Web3: The Future of Decentralized Internet
 
 Web3, also known as Web 3.0, is the next generation of the internet, where users have more control over their data and online interactions. Unlike the current Web 2.0, which is centralized and controlled by a few large companies, Web3 is decentralized and powered by blockchain technology.
 
