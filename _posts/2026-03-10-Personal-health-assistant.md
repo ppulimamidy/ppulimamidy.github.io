@@ -1,4 +1,4 @@
-# Personal Health Assistant — Product Demo & Story Guide
+# Personal Health Assistant — Product Demo and Story Guide
 
 > **Audience:** Patients · Doctors · Caregivers · Investors · Partners · Potential Users
 > **Purpose:** Complete product story, feature walkthrough, competitive differentiation, and moat analysis
